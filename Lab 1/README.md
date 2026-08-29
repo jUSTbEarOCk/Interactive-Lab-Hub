@@ -94,19 +94,15 @@ the interaction*:
 someone would recognize it by?**
 
 **What inputs are available to the user? What responses does the work give?**
-
 The broadcast starts, and the ‘ON-AIR’ light turns on.
 
 **Who is present, and how does the piece color the relationships between them?**
-
 The host, studio staff, and people outside use the light to communicate whether they should avoid interruptions.
 
 **What is the piece famous for? What are its strengths and its weaknesses?**
-
 It is famous for clearly signaling a live broadcast, but it only provides simple visual information.
 
 **What is the core interaction someone would recognize it by?**
-
 The light turns on during a broadcast, signaling others to stay quiet and not enter.
 
 
