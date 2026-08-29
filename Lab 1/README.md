@@ -122,13 +122,14 @@ For your masterwork, reconstruct the interaction as a scene:
 - **Goals:** What is each player trying to do?
 
 **Describe your setting, players, activity, and goals here.**
-Setting: The interaction happens in or outside a radio or recording studio during a broadcast.
 
-Players: The players include the host, studio staff, guests, and people outside the studio.
+**Setting**: The interaction happens in or outside a radio or recording studio during a broadcast.
 
-Activity: The light turns on during broadcasting, and people nearby respond by staying quiet or avoid entering the room.
+**Players**: The players include the host, studio staff, guests, and people outside the studio.
 
-Goals: The host wants to avoid interruptions, while others want to know when it is appropriate to enter or speak.
+**Activity**: The light turns on during broadcasting, and people nearby respond by staying quiet or avoid entering the room.
+
+**Goals**: The host wants to avoid interruptions, while others want to know when it is appropriate to enter or speak.
 
 
 Now **sketch a 3 storyboards** of the interaction you are recreating. (The number may depend on the thing you drew, but stretch your thinking!) They
