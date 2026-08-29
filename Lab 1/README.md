@@ -137,7 +137,7 @@ and the people around it. If you're new to storyboarding, read
 
 Use the storyboards to decide what interaction to prototype.
 
-![Storyboard](Lovd crewehoie.png)
+![Storyboard](Lovdcrewehoie.png)
 
 **Summarize the feedback you got here.**
 
