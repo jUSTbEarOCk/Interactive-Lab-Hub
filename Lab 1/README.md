@@ -137,6 +137,7 @@ and the people around it. If you're new to storyboarding, read
 
 Use the storyboards to decide what interaction to prototype.
 
+![Storyboard](Lovd crewehoie.png)
 
 **Summarize the feedback you got here.**
 
@@ -181,6 +182,7 @@ building any real electronics. (Zoom works well for recording; you can pin the
 video feed of whichever scene you want to capture.)
 
 **Include your first attempts at recording the wizarded set-up here.**
+[Watch First Try](first_try.mp4)
 
 ## Part E. (optional) Costume the Device
 
@@ -203,6 +205,7 @@ the top of this lab: a viewer who knows the piece should recognize it; a viewer
 who doesn't should come away understanding what it's famous for. How might you illustrate the non-sequential aspects of the interaction in the sketch?
 
 **Include your video here.**
+[Watch Final Video](final.mp4)
 
 **Please indicate who you collaborated with on this lab.** Be generous in
 acknowledging their contributions, and credit any other influences (YouTube,
