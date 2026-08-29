@@ -3,6 +3,7 @@
 _This project is to be done in teams of 2._
 
 **NAME OF BOTH COLLABORATOR(S) HERE**
+Yujing Zhou, Youssef Hassan
 
 **THE MASTERWORK YOU DREW FROM THE HAT:**
 
@@ -91,6 +92,18 @@ the interaction*:
 
 **Describe your masterwork here, in your own words. What is the core interaction
 someone would recognize it by?**
+What inputs are available to the user? What responses does the work give?
+The broadcast starts, and the ‘ON-AIR’ light turns on.
+
+Who is present, and how does the piece color the relationships between them?
+The host, studio staff, and people outside use the light to communicate whether they should avoid interruptions.
+
+What is the piece famous for? What are its strengths and its weaknesses?
+It is famous for clearly signaling a live broadcast, but it only provides simple visual information.
+
+What is the core interaction someone would recognize it by?
+The light turns on during a broadcast, signaling others to stay quiet and not enter.
+
 
 ## Part A. Plan
 
@@ -104,6 +117,11 @@ For your masterwork, reconstruct the interaction as a scene:
 - **Goals:** What is each player trying to do?
 
 **Describe your setting, players, activity, and goals here.**
+Setting: The interaction happens in or outside a radio or recording studio during a broadcast.
+Players: The players include the host, studio staff, guests, and people outside the studio.
+Activity: The light turns on during broadcasting, and people nearby respond by staying quiet or avoid entering the room.
+Goals: The host wants to avoid interruptions, while others want to know when it is appropriate to enter or speak.
+
 
 Now **sketch a 3 storyboards** of the interaction you are recreating. (The number may depend on the thing you drew, but stretch your thinking!) They
 don't need to be beautiful, but they must capture and communicate not only the behavior of the light, but how it affects
@@ -113,6 +131,7 @@ and the people around it. If you're new to storyboarding, read
 **Include pictures of your storyboards here.**
 
 Use the storyboards to decide what interaction to prototype.
+
 
 **Summarize the feedback you got here.**
 
