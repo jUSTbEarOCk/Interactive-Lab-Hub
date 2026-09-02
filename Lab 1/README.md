@@ -183,9 +183,7 @@ video feed of whichever scene you want to capture.)
 
 **Include your first attempts at recording the wizarded set-up here.**
 
-
 https://github.com/user-attachments/assets/00620073-98bb-4dc4-9f08-48d045e3b382
-
 
 
 ## Part E. (optional) Costume the Device
@@ -208,8 +206,9 @@ and calm for a bedroom?
 the top of this lab: a viewer who knows the piece should recognize it; a viewer
 who doesn't should come away understanding what it's famous for. How might you illustrate the non-sequential aspects of the interaction in the sketch?
 
-**Include your video here.**
-[Watch Final Video](final.mp4)
+**Include your video here.*
+https://github.com/user-attachments/assets/b564cd45-4996-44f6-b20f-b07beca70e46
+
 
 **Please indicate who you collaborated with on this lab.** Be generous in
 acknowledging their contributions, and credit any other influences (YouTube,
