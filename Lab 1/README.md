@@ -229,10 +229,15 @@ guess the masterwork and the goals of the characters, and ask about anything tha
 wasn't clear.
 
 **Who were the other groups you kibitzed with? Add links to their project pages here.**
+
 Jessica: https://github.com/chonjessica23/Interactive-Lab-Hub/tree/Fall2026/Lab%201
+
 Pallavi: https://github.com/pk633-cu/Interactive-Lab-Hub/blob/Fall2026/Lab%201/README.md
+
 Yuni: https://github.com/parky20/Interactive-Lab-Hub
+
 **Summarize the feedback you got from your partners here.**
+
 Feedback 1: Hey! I thought that the interaction was pretty clear and that it was a teleprompter indicating to the telecaster that they are about to go live. One suggestion I would add is maybe someone acting as a host - when they’re not on air they could be getting ready to film, but once the teleprompter shows that they’re ‘on air’ they’ll start hosting the show
 
 Feedback 2: I think the interaction element was made very clear and you both did a good job because I was able to understand that this was an “ON AIR” interaction. My only critique is that I think it would have been helpful to show the environment the project was in. Initially, I was very confused what I was looking at until the very end of the video. This would help users visualize the setting for where this product is meant to be, consequently informing us subtly potential users, intentions, etc.
@@ -241,6 +246,7 @@ Feedback 3: The device itself is very simple and straightforward. I think the vi
 I think there could be more details added to the storyboard. For instances, talking bubbles (?) in the second frame, and a drawing of the setting (studio/recording station etc.)
 
 Summarize:
+
 ## Remix, Update, or Critique the Master
 
 Now that you understand your masterwork from the inside, respond to it. Do the
