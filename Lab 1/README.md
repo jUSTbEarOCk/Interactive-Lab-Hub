@@ -182,7 +182,11 @@ building any real electronics. (Zoom works well for recording; you can pin the
 video feed of whichever scene you want to capture.)
 
 **Include your first attempts at recording the wizarded set-up here.**
-[Watch First Try](first_try.mp4)
+
+
+https://github.com/user-attachments/assets/00620073-98bb-4dc4-9f08-48d045e3b382
+
+
 
 ## Part E. (optional) Costume the Device
 
