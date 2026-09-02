@@ -245,7 +245,7 @@ Feedback 2: I think the interaction element was made very clear and you both did
 Feedback 3: The device itself is very simple and straightforward. I think the videos showing the movement/changes of light properly highlighted how light is used in the device.
 I think there could be more details added to the storyboard. For instances, talking bubbles (?) in the second frame, and a drawing of the setting (studio/recording station etc.)
 
-Summarize:
+Summarize: 
 
 ## Remix, Update, or Critique the Master
 
