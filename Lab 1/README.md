@@ -268,9 +268,13 @@ your response engages with what your master was really doing.
 **Document everything here — especially the storyboard and video. Photos of the
 prototype are great too.**
 
+![IMG_8567](https://github.com/user-attachments/assets/cdc9fce6-8534-4eba-b439-7144810961b0)
 
 https://github.com/user-attachments/assets/2a637a92-14f0-4075-9ac2-58b462abd8f3
 
+Improvements:
+
+For our updated interaction, we made several key changes to improve the device and make the setting immediately clear. First, instead of using a phone, we used a much bigger screen to display the "On Air" light. We also smoothed out the visual transition of the light turning from off to bright red. To clearly show that this object is being used in a broadcast studio, we added an actor playing the role of a host holding a microphone. The new scene starts with background crowd noise, and then we hear a director shout, "We're going live in 3, 2, 1!" At the exact same time, the "On Air" light smoothly begins to turn on. The moment it is fully illuminated, there is absolute silence in the room, immediately followed by the host saying, "Welcome back to our show."
 
 
 ---
