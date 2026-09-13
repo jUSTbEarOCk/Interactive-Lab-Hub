@@ -198,7 +198,6 @@ We strongly discourage literal digital or analog clock display: Be creative.
 **Ideas:** I want to measure the passage of year 2026 through the concerts I have attended or plan to attend. Each concert will serve as a milestone throughout the year, with its poster and date displayed on the screen. By pressing the left or right button, users can move between concerts and see how the year progresses through these events.
 
 **Sketches:**
-
 <img width="250" height="416" alt="Pasted Graphic 7" src="https://github.com/user-attachments/assets/6d6c05c9-338e-4c83-9783-c34b955d033b" />
 
 
