@@ -158,9 +158,9 @@ You can look in `image.py` for an example of how to display an image on the scre
 
 \*\*\***Include a picture of your own Raspberry Pi displaying the piscreen.service with your unique MAC address. Additionally, please provide another picture showing the successful completion of the screen test.**\*\*\*
 
-![IMG_8625](https://github.com/user-attachments/assets/583dac33-31a8-4117-b2dc-9b4ae2b8464d)
+<img width="538" height="720" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/ffa59049-62e6-4b14-8049-632f05db171b" />
+<img width="994" height="739" alt="Pasted Graphic 5" src="https://github.com/user-attachments/assets/4bc3866e-bbab-43a2-af14-fa61a4e9ab6e" />
 
-![IMG_8626](https://github.com/user-attachments/assets/497cdada-a6cd-4e2a-a3b8-83d3fe12a207)
 
 
 ## Part D. 
