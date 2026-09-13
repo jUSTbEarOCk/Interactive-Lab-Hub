@@ -195,9 +195,10 @@ We strongly discourage literal digital or analog clock display: Be creative.
 
 ** Insert ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf)), storyboards for your ideas **
 
-**Ideas:** I want to measure the passage of year 2026 through the concerts I have attended or plan to attend. Each concert will serve as a milestone throughout the year, with its poster and date displayed on the screen. By pressing the upper or lower button, users can move between concerts and see how the year progresses through these events.
+**Ideas:** I want to measure the passage of year 2026 through the concerts I have attended or plan to attend. Each concert will serve as a milestone throughout the year, with its poster and date displayed on the screen. By pressing the left or right button, users can move between concerts and see how the year progresses through these events.
 
 **Sketches:**
+<img width="250" height="416" alt="Pasted Graphic 7" src="https://github.com/user-attachments/assets/6d6c05c9-338e-4c83-9783-c34b955d033b" />
 
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
