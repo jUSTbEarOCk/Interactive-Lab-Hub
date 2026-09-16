@@ -204,6 +204,7 @@ We strongly discourage literal digital or analog clock display: Be creative.
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
 
 Achilles Emnance: https://github.com/aemnace11/Interactive-Lab-Hub/tree/Fall2026/Lab%202
+
 Pallavi Khanna: https://github.com/pk633-cu/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md
 
 # Lab 2 Part 2
