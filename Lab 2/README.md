@@ -216,13 +216,13 @@ Pallavi Khanna: https://github.com/pk633-cu/Interactive-Lab-Hub/blob/Fall2026/La
 2. Look at and give feedback on the Part E. for at least 3 other people in the class and get 3 people to comment on your Part E!)
 **Put the feedback for your ideas here.**
 
-1. I think it's an interesting idea to measure your time with your hobby. Maybe you can modify the screen design to put some elements regarding your topic to make it more interesting? Maybe you can add changes to the numbers as the next concert approaches nearer and nearer, probably bigger number size or different colors? I think you can think broader about UI design to make this clock even more fun!
+Feedback 1: I think it's an interesting idea to measure your time with your hobby. Maybe you can modify the screen design to put some elements regarding your topic to make it more interesting? Maybe you can add changes to the numbers as the next concert approaches nearer and nearer, probably bigger number size or different colors? I think you can think broader about UI design to make this clock even more fun!
 
-2. Overall, I think your idea is creative and fun! Something I would keep in mind is since the screen of the Pi is small I would think about the information you want to prioritize so the text is readable. For instance, maybe increase the font size of the actual days until the next concert bigger and instead of adding a picture of the concert, maybe add the logo or make the image smaller. That way the user can understand the information at a glance.
+Feedback 2: Overall, I think your idea is creative and fun! Something I would keep in mind is since the screen of the Pi is small I would think about the information you want to prioritize so the text is readable. For instance, maybe increase the font size of the actual days until the next concert bigger and instead of adding a picture of the concert, maybe add the logo or make the image smaller. That way the user can understand the information at a glance.
 
-3. I really like the idea, I think it is very personal and will make the user remember certain memories or feelings that they experienced at each of those concerts (or that time of year it happened). Also, it shouldn’t be that hard to implement so this is a great idea!
+Feedback 3: I really like the idea, I think it is very personal and will make the user remember certain memories or feelings that they experienced at each of those concerts (or that time of year it happened). Also, it shouldn’t be that hard to implement so this is a great idea!
 
-4. very fun and knowing when my next concert is definitely a way to motivate me as something to look forward to. i just wonder how you'd input the concerts you buy tickets for later on.
+Feedback 4: very fun and knowing when my next concert is definitely a way to motivate me as something to look forward to. i just wonder how you'd input the concerts you buy tickets for later on.
 
 ## Update your Lab Hub
 
