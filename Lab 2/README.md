@@ -238,6 +238,11 @@ Start small, pick just one element of your overall idea, just to show you have a
 
 \*\*\***Take a video of your barely modified PiClock.**\*\*\*
 
+
+https://github.com/user-attachments/assets/c056d5f7-10de-497f-b95a-5a5c74bea310
+
+
+
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
 ```
@@ -259,6 +264,9 @@ I reduced the elements on the screen to make the text more readable.
 \*\*\***Put a copy of your code in your Lab 2 Github repo.**\*\*\*
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+
+https://github.com/user-attachments/assets/d59a00a7-7d92-4dcb-a643-eb7a50da231a
+
 
 
 As always, make sure you document contributions and ideas from others (and AI) explicitly in your writeup.
