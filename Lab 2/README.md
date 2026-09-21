@@ -253,6 +253,7 @@ After that, Git will ask you to login to your GitHub account to push the updates
 Do take advantage of having done the previous iteration to refine and simplify your design.
 
 ** Insert any updates ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf))!, storyboards for your ideas **
+I reduced the elements on the screen to make the text more readable.
 
 
 \*\*\***Put a copy of your code in your Lab 2 Github repo.**\*\*\*
@@ -261,6 +262,7 @@ Do take advantage of having done the previous iteration to refine and simplify y
 
 
 As always, make sure you document contributions and ideas from others (and AI) explicitly in your writeup.
+I use AI to help with my coding.
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab.  Make sure the page for the group turn in is linked to your personal Interactive Lab Hub page. 
 
