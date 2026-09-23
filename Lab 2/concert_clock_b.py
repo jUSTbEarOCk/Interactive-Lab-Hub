@@ -28,6 +28,7 @@ width = 135
 height = 240
 rotation = 0
 
+
 # ---------- Backlight ----------
 backlight = digitalio.DigitalInOut(board.D22)
 backlight.switch_to_output()
@@ -61,12 +62,17 @@ events = [
     {
         "name": "YENA",
         "date": "Apr 25, 2026",
-        "image": "yena1.jpg"
+        "image": "yena.jpg"
     },
     {
         "name": "YENA",
         "date": "May 23, 2026",
-        "image": "yena2.jpg"
+        "image": "yena.jpg"
+    },
+    {
+        "name": "Yu Zhen",
+        "date": "Aug 1, 2026",
+        "image": "Yu Zhen.jpg"
     },
     {
         "name": "Jay Park & LNGSHOT",
@@ -77,6 +83,16 @@ events = [
         "name": "aespa",
         "date": "Sep 18, 2026",
         "image": "aespa.jpg"
+    },
+    {
+        "name": "Global Citizen Festival",
+        "date": "Sep 26, 2026",
+        "image": "GCF.jpg"
+    },
+    {
+        "name": "LE SSERAFIM",
+        "date": "Oct 8, 2026",
+        "image": "le sserafim.jpg"
     },
     {
         "name": "BOYNEXTDOOR",
@@ -91,12 +107,15 @@ events = [
 ]
 
 
-# Start with first event
 current_event = 0
 
+# Used for scrolling long names
+scroll_x = 7
+last_scroll = time.time()
 
-# ---------- Function to display an event ----------
-def show_event(index):
+
+# ---------- Draw event ----------
+def show_event(index, name_x=7):
 
     event = events[index]
 
@@ -107,7 +126,7 @@ def show_event(index):
     # Load poster
     poster = Image.open(event["image"]).convert("RGB")
 
-    # Resize poster while keeping aspect ratio
+    # Resize while keeping aspect ratio
     poster.thumbnail((125, 175))
 
     # Center poster
@@ -118,7 +137,7 @@ def show_event(index):
 
     # Event name
     draw.text(
-        (7, 185),
+        (name_x, 185),
         event["name"],
         font=name_font,
         fill="white"
@@ -132,39 +151,77 @@ def show_event(index):
         fill="white"
     )
 
-    # Send image to screen
     disp.image(screen, rotation)
 
 
-# ---------- Show first event ----------
+# ---------- Get name width ----------
+def get_name_width(name):
+    box = name_font.getbbox(name)
+    return box[2] - box[0]
+
+
+# ---------- First event ----------
 show_event(current_event)
 
 
 # ---------- Main loop ----------
 while True:
 
-    # Upper button -> previous event
+    # Previous event
     if not buttonA.value:
+
         current_event -= 1
 
         if current_event < 0:
             current_event = len(events) - 1
 
-        show_event(current_event)
+        scroll_x = 7
+        show_event(current_event, scroll_x)
 
-        # Prevent one press from changing many pages
-        time.sleep(0.3)
+        # Wait until button is released
+        while not buttonA.value:
+            time.sleep(0.01)
 
-    # Lower button -> next event
+        time.sleep(0.1)
+
+
+    # Next event
     elif not buttonB.value:
+
         current_event += 1
 
         if current_event >= len(events):
             current_event = 0
 
-        show_event(current_event)
+        scroll_x = 7
+        show_event(current_event, scroll_x)
 
-        # Prevent one press from changing many pages
-        time.sleep(0.3)
+        # Wait until button is released
+        while not buttonB.value:
+            time.sleep(0.01)
 
-    time.sleep(0.05)
+        time.sleep(0.1)
+
+
+    # ---------- Scroll long event names ----------
+    event_name = events[current_event]["name"]
+    text_width = get_name_width(event_name)
+
+    # Only scroll if the name is wider than the screen
+    if text_width > width - 14:
+
+        if time.time() - last_scroll > 0.05:
+
+            scroll_x -= 1
+
+            # Once the whole name disappears,
+            # start again from the right
+            if scroll_x < -text_width:
+                scroll_x = width
+
+            show_event(current_event, scroll_x)
+
+            last_scroll = time.time()
+
+
+    time.sleep(0.01)
