@@ -180,6 +180,8 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 \*\***Please describe and document your process.**\*\*
 
+I designed the dialogue to move from a broad question to more specific preferences. The assistant first asks what kind of meal the user wants, then asks about how filling the meal should be and any dietary preferences. After collecting enough information, it gives a small number of recommendations instead of overwhelming the user with too many choices. I used a silence threshold of around 0.7 seconds because it felt more natural than 0.2 seconds while still being more responsive than 1.5 seconds.
+
 Your script should include the pauses. Where does your device wait, and for how long? You now know from Part C that this is a parameter you have to choose, not something that happens for free.
 
 ## E. Acting out the dialogue
