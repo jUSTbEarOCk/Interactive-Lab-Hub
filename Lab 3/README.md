@@ -192,6 +192,9 @@ Find a partner, and *without sharing the script with your partner* try out the d
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
+https://github.com/user-attachments/assets/bccbb266-a54c-4b81-88ae-47be06ce553c
+
+The acted-out interaction was less predictable than my storyboard. The participant gave different answers than I expected, so the conversation did not follow the script exactly. This showed me that a voice assistant should be flexible and able to adapt to unexpected user responses.
 
 ---
 
