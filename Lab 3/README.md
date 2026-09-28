@@ -110,6 +110,7 @@ The demo script also shows `--output-raw`, which streams audio to the speaker as
 (This shell file should be saved to your own repo for this lab.)
 
 \*\***Then answer: Is the same greeting, in these different voices, the same greeting? Describe one concrete way the voice changed what the utterance seemed to mean or who seemed to be speaking.**\*\*
+The same greeting did not feel exactly the same across different voices. eSpeak sounded more robotic and like a system notification, while Piper sounded more natural and personal.
 
 ## B. Speech to Text
 
