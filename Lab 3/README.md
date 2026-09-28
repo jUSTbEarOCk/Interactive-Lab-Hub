@@ -132,6 +132,8 @@ Available sizes, smallest first: `tiny.en`, `base.en`, `small.en`, `medium.en`. 
 
 \*\***Record a few seconds of your own speech (`arecord -d 5 -f cd -c 1 -r 16000 test.wav`) and transcribe it with at least two model sizes. Report the real-time factor for each. At what point does the accuracy improvement stop being worth the delay, for a system that has to answer you?**\*\*
 
+tiny.en achieved an RTF of 0.22x, while base.en achieved 0.37x. Both correctly transcribed “Hello, I’m Cynthia.” Since base.en was slower without improving accuracy on this sample, I would use tiny.en for an interactive system. I also created ask_number.sh to verbally ask for a numerical input and record the user’s response.
+
 \*\***Write your own script that verbally asks for a numerical input (a phone number, zipcode, number of pets) and records the answer the respondent provides.**\*\* Numbers are a good stress test — transcription systems make characteristic errors on digit strings, and you will want to know what they are before you design around them.
 
 ## C. Turn-taking: knowing when someone has stopped talking
