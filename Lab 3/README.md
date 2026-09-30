@@ -23,8 +23,6 @@ At 0.2 seconds, the system often treated normal hesitation or short pauses as th
 At 0.7 seconds, the interaction felt more natural and responsive.
 At 1.5 seconds, the system waited noticeably after I stopped speaking, which made the interaction feel slower and less responsive.
 
-There is no correct value. A system that takes drink orders and a system that listens to someone think out loud want very different thresholds, and the right one depends on what your users are doing with their pauses.
-
 ## D. Storyboard
 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.)
