@@ -46,6 +46,7 @@ The acted-out interaction was less predictable than my storyboard. The participa
 # Lab 3 Part 2
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 For Part 2, you will redesign the interaction with the speech-enabled device using the data collected, as well as feedback from part 1.
 
@@ -60,6 +61,14 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 
 https://github.com/user-attachments/assets/336aa50d-7b4e-440c-8d14-ec6d89be931f
 
+=======
+## Prototype your system
+
+<img width="1291" height="521" alt="Thaking ohhort won t ent tidly ？" src="https://github.com/user-attachments/assets/be8cef4c-c4ec-4df2-945b-501f945dcfb6" />
+
+https://github.com/user-attachments/assets/336aa50d-7b4e-440c-8d14-ec6d89be931f
+
+>>>>>>> 511c4be (Revise Lab 3 Part 2 with prototype details)
 https://github.com/user-attachments/assets/73544a34-521c-4037-8a73-d613b2ab3170
 
 ## Test the system
