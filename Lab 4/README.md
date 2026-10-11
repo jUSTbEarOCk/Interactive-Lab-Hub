@@ -17,8 +17,8 @@
 ---
 
 ## Lab Overview
-Team: <canvas group name>  
-Members: <Yujing Zhou (yz3594)>
+Members: Yujing Zhou (yz3594)
+
 Project name: <name>
 
 
