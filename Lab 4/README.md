@@ -18,7 +18,7 @@
 
 ## Lab Overview
 Team: <canvas group name>  
-Members: Full Name (netid, github-handle), ...  
+Members: Yujing Zhou (yz3594)
 Project name: <name>
 
 
