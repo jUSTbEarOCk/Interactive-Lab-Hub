@@ -1,28 +1,10 @@
 # Ph-UI!!!
-
-<details>
-	<summary><strong>Instructions for Students (Click to Expand)</strong></summary>
-  
-	**Submission Cleanup Reminder:**
-	- This README.md contains extra instructional text for guidance.
-	- Before submitting, remove all instructional text and example prompts from this file.
-	- You may delete these sections or use the toggle/hide feature in VS Code to collapse them for a cleaner look.
-	- Your final submission should be neat, focused on your own work, and easy to read for grading.
-  
-	This helps ensure your README.md is clear, professional, and uniquely yours!
-</details>
-
----
-
 ---
 
 ## Lab Overview
 Members: Yujing Zhou (yz3594)
 
 Project name: <name>
-
-
-For lab this week, we focus on both sensing and actuation, bringing new modes of input and output into your devices, while also prototyping the physical structure and overall look of the device. You will consider how the physical form supports sensing and actuation, and how these elements come together to shape the interaction and aesthetics of the device.
 
 ---
 
@@ -39,6 +21,11 @@ D) [Physical Interaction Design: Feast Automata](#part-d)
 E) [Build & Integrate](#part-e)
 
 F) [Final Documentation](#part-f)
+
+---
+
+<details>
+<summary><b> INSTRUCTIONS </b></summary>
 
 ---
 
@@ -280,6 +267,7 @@ Your kit includes these [SparkFun Qwiic OLED screens](https://www.sparkfun.com/p
 
 </p>
 
+</details>
 
 As you develop your Feast Automata concept, consider where the sensor and actuator need to be placed, what parts move, how electronics are housed, and how the overall form and aesthetics support the interaction.
 
