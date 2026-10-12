@@ -8,22 +8,6 @@ Project name: <name>
 
 ---
 
-## Lab Structure
-
-A) [Capacitive Sensing](#part-a)
-
-B) [More Sensors](#part-b)
-
-C) [Servo Actuation](#part-c)
-
-D) [Physical Interaction Design: Feast Automata](#part-d)
-
-E) [Build & Integrate](#part-e)
-
-F) [Final Documentation](#part-f)
-
----
-
 <details>
 <summary><b>  Part 1 Lab Preparation </b></summary>
 
