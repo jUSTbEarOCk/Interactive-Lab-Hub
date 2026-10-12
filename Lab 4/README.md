@@ -25,11 +25,7 @@ F) [Final Documentation](#part-f)
 ---
 
 <details>
-<summary><b> INSTRUCTIONS </b></summary>
-
----
-
-## Part 1 Lab Preparation
+<summary><b>  ## Part 1 Lab Preparation </b></summary>
 
 ---
 
@@ -131,6 +127,7 @@ Twizzler 10 touched!
 Twizzler 6 touched!
 ```
 
+</details>
 ---
 
 ### Part B
@@ -266,8 +263,6 @@ Your kit includes these [SparkFun Qwiic OLED screens](https://www.sparkfun.com/p
 <img src="https://cdn.sparkfun.com//assets/parts/1/6/1/3/5/17153-SparkFun_Qwiic_OLED_Display__0.91_in__128x32_-01.jpg" height="200" />
 
 </p>
-
-</details>
 
 As you develop your Feast Automata concept, consider where the sensor and actuator need to be placed, what parts move, how electronics are housed, and how the overall form and aesthetics support the interaction.
 
