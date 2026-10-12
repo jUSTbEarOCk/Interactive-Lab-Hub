@@ -25,7 +25,7 @@ F) [Final Documentation](#part-f)
 ---
 
 <details>
-<summary><b>  ## Part 1 Lab Preparation </b></summary>
+<summary><b>  Part 1 Lab Preparation </b></summary>
 
 ---
 
@@ -108,7 +108,7 @@ Option 3: (preferred) use the Github.com interface to update the changes.
 ---
 
 <details>
-<summary><b> ### Part A </b></summary>
+<summary><b> Part A </b></summary>
 ### Capacitive Sensing, a.k.a. Human-Twizzler Interaction 
 
 We want to introduce you to the [capacitive sensor](https://learn.adafruit.com/adafruit-mpr121-gator) in your kit. It's one of the most flexible input devices we are able to provide. At boot, it measures the capacitance on each of the 12 contacts. Whenever that capacitance changes, it considers it a user touch. You can attach any conductive material. In your kit, you have copper tape that will work well, but don't limit yourself! In the example below, we use Twizzlers--you should pick your own objects.
@@ -130,9 +130,11 @@ Twizzler 6 touched!
 ```
 
 </details>
+
 ---
 
-### Part B
+<details>
+<summary><b> Part B </b></summary>
 ### More sensors
 
 #### Light/Proximity/Gesture sensor (APDS-9960)
@@ -207,10 +209,12 @@ Connect it to your pi with Qwiic connector and try running the example script to
 ```
 
 You can go to the [SparkFun GitHub Page](https://github.com/sparkfun/Qwiic_Proximity_Py) to learn more about the sensor and see other examples
-
+<details>
+	
 ---
 
-### Part C
+<details>
+<summary><b> Part C </b></summary>
 ### Servo Actuation
 
 Now that you have explored several forms of sensing, add physical output by learning to control a servo motor. Complete the Servo pHAT setup and basic servo test before beginning your interaction design.
@@ -235,6 +239,7 @@ python pi_servo_hat_test.py
 ```
 For more details and advanced usage, see the [official SparkFun Servo pHAT documentation](https://learn.sparkfun.com/tutorials/pi-servo-phat-v2-hookup-guide/all#resources-and-going-further).
 A servo motor is a rotary actuator that allows for precise control of angular position. The position is set by the width of an electrical pulse (PWM). You can read [this Adafruit guide](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors/servo-motors) to learn more about how servos work.
+<details>
 
 ---
 
