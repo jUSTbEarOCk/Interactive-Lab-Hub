@@ -103,10 +103,12 @@ Option 3: (preferred) use the Github.com interface to update the changes.
 
 * [Gear Template Generator](https://woodgears.ca/gear_cutting/template.html) can help you prototype simple gear mechanisms for translating servo motion into physical movement.
 
+</details>
 
 ---
 
-### Part A
+<details>
+<summary><b> ### Part A </b></summary>
 ### Capacitive Sensing, a.k.a. Human-Twizzler Interaction 
 
 We want to introduce you to the [capacitive sensor](https://learn.adafruit.com/adafruit-mpr121-gator) in your kit. It's one of the most flexible input devices we are able to provide. At boot, it measures the capacitance on each of the 12 contacts. Whenever that capacitance changes, it considers it a user touch. You can attach any conductive material. In your kit, you have copper tape that will work well, but don't limit yourself! In the example below, we use Twizzlers--you should pick your own objects.
