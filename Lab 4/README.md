@@ -4,7 +4,7 @@
 ## Lab Overview
 Members: Yujing Zhou (yz3594)
 
-Project name: <name>
+Project name: Latte Palette
 
 ---
 
@@ -265,11 +265,13 @@ As you develop your Feast Automata concept, consider where the sensor and actuat
 
 **\*\*\*What questions do these sketches raise? What do you need to physically prototype to answer them?\*\*\***
 
-They raise questions like 
+They raise questions like: Where and how should sensors be placed? How can moving parts be attached securely? How can the interaction feel intuitive to users?
+
+I need to build simple cardboard prototypes to test different structures and moving mechanisms.
 
 **\*\*\*Pick one design to prototype and explain why.\*\*\***
 
-Build a cardboard or other low-fidelity physical prototype of your design.
+I pick
 
 **\*\*\*Document your rough prototype with photos and/or video.\*\*\***
 
