@@ -267,11 +267,11 @@ As you develop your Feast Automata concept, consider where the sensor and actuat
 
 They raise questions like: Where and how should sensors be placed? How can moving parts be attached securely? How can the interaction feel intuitive to users?
 
-I need to build simple cardboard prototypes to test different structures and moving mechanisms.
+I need to build simple cardboard prototypes to test different structures and moving mechanisms. Specifically, for my fifth design Color Palette, I want to test how to connect the rotating coaster to the servo motor, where to place the sensors to detect the cup, and how to position the colored lights so that they align with the cup. I also need to test whether the coaster can rotate smoothly and support the weight of the cup.
 
 **\*\*\*Pick one design to prototype and explain why.\*\*\***
 
-I pick
+I chose the fifth design because I think it is the most interesting and interactive one. First, users can select their preferred latte flavor from the menu. Then, the coaster rotates to position the corresponding colored light at the center. When users place their cup on the coaster, the light turns on, illuminating the cup with a color that matches their selected latte flavor.
 
 **\*\*\*Document your rough prototype with photos and/or video.\*\*\***
 
