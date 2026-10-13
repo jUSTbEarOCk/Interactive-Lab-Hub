@@ -265,6 +265,8 @@ As you develop your Feast Automata concept, consider where the sensor and actuat
 
 **\*\*\*What questions do these sketches raise? What do you need to physically prototype to answer them?\*\*\***
 
+They raise questions like 
+
 **\*\*\*Pick one design to prototype and explain why.\*\*\***
 
 Build a cardboard or other low-fidelity physical prototype of your design.
