@@ -274,7 +274,7 @@ I need to build simple cardboard prototypes to test different structures and mov
 I chose **Latte Palette** because I think it is the most interesting and interactive one. First, users can select their preferred latte flavor from the menu. Then, the coaster rotates to position the corresponding colored light at the center. When users place their cup on the coaster, the light turns on, illuminating the cup with a color that matches their selected latte flavor.
 
 **\*\*\*Document your rough prototype with photos and/or video.\*\*\***
-https://github.com/user-attachments/assets/c9322505-9844-406e-a5b2-5028bdf76e30
+https://github.com/user-attachments/assets/c30e9135-2b3c-4193-91f0-332082779509
 
 ---
 
