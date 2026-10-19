@@ -281,11 +281,10 @@ https://github.com/user-attachments/assets/c30e9135-2b3c-4193-91f0-332082779509
 
 ## Part 2
 
-Following exploration and reflection from Part 1, complete the "looks like," "works like" and "acts like" prototypes for your design, reiterated below.
-
 ---
 
-### Part E
+<details>
+<summary><b> Part E </b></summary>
 
 #### Build & Integrate: Sensing + Actuation
 
@@ -457,6 +456,7 @@ python gpio_expander.py
 ```
 
 This is a playful way to visualize how the expander works, but the same technique applies if you wanted to prototype buttons, switches, or other interaction elements. It’s a lightweight, flexible addition to your prototyping toolkit.
+</details>
 
 ---
 
