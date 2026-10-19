@@ -476,27 +476,13 @@ https://github.com/user-attachments/assets/c8ea7c37-02d7-4670-9527-9231c19869e4
 
 Block Diagram:
 
-[Raspberry Pi 5]
-      |
-      v
-[SparkFun Servo pHAT]
-      | \
-      |  \__ Qwiic cable --> [Red Qwiic Button LED] --> [Green Qwiic Button LED]
-      |
-      v
- [Servo Motor]
-      |
-      v
- [Rotating Coaster Platform]
- 
+<img width="1941" height="904" alt="IMG_3663" src="https://github.com/user-attachments/assets/36ba76a0-c72e-4764-b5be-c916691b58b9" />
+
 Interaction Flow:
 
 1. User presses red or green button
-            ↓
 2. Raspberry Pi receives the input
-            ↓
 3. Servo rotates coaster to the corresponding latte position
-            ↓
 4. Corresponding button LED lights up as feedback
 
 **Written Reflection:**
