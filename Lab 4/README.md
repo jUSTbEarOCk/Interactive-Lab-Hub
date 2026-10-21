@@ -468,22 +468,31 @@ This is a playful way to visualize how the expander works, but the same techniqu
 ### Part F
 
 ### Final Documentation
+**Video:**
 
-Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
-* "Looks like": shows how the device should look, feel, sit, weigh, etc.
-* "Works like": shows what the device can do
-* "Acts like": shows how a person would interact with the device
+https://github.com/user-attachments/assets/c8ea7c37-02d7-4670-9527-9231c19869e4
 
----
+**Interaction Diagram:**
 
-## Deliverables \& Submission for Lab 4
+Block Diagram:
 
-The deliverables for this lab are, writings, sketches, photos, and videos that show what your prototype:
-* "Looks like": shows how the device should look, feel, sit, weigh, etc.
-* "Works like": shows what the device can do.
-* "Acts like": shows how a person would interact with the device.
+<img width="1941" height="904" alt="IMG_3663" src="https://github.com/user-attachments/assets/36ba76a0-c72e-4764-b5be-c916691b58b9" />
 
-For submission, the readme.md page for this lab should be edited to include the work you have done:
-* Upload any materials that explain what you did, into your lab 4 repository, and link them in your lab 4 readme.md.
-* Link your Lab 4 readme.md in your main Interactive-Lab-Hub readme.md. 
-* Labs are due on Mondays, make sure to submit your Lab 4 readme.md to Canvas.
+Interaction Flow:
+
+1. User presses red or green button
+2. Raspberry Pi receives the input
+3. Servo rotates coaster to the corresponding latte position
+4. Corresponding button LED lights up as feedback
+
+**Written Reflection:**
+
+Through this project, I learned that connecting sensing, movement, and physical form is more challenging than I initially expected. My original idea was to let users select a latte flavor using Qwiic buttons, rotate the coaster to the corresponding position, and light up the matching color when a cup was placed on it. However, I encountered several technical issues when connecting the sensors and LED buttons, especially with unstable I²C communication.
+
+The most interesting part was seeing how a simple servo motor could turn a regular coaster into an interactive object. I also realized that physical constraints, such as the limited rotation angle of the servo and the stability of the cardboard structure, had a direct impact on my design. For example, the servo could not reliably rotate a full 180 degrees in my setup, so I had to adjust the positions of the two latte flavors.
+
+In the final prototype, I simplified the interaction by using keyboard input to select the latte flavor, while keeping the servo-controlled rotation. Although the sensing and lighting features were not fully implemented, the prototype successfully demonstrates the main idea of Latte Palette. In future iterations, I would improve the Qwiic connections and add reliable physical input and colored lighting to make the interaction more intuitive.
+
+
+
+
